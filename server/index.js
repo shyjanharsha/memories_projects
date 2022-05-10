@@ -29,3 +29,5 @@ mongoose.connect(process.env.CONNECTION_URL, {useNewUrlParser: true, useUnifiedT
 // mongoose.set('useFindAndModify', false)
 // Create a routes Folder and setup
 //next going to do Folder Structure for backend
+
+//{npm install bcryptjs jsonwebtoken}

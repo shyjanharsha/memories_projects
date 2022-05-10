@@ -19,3 +19,4 @@ ReactDOM.render(
 
 
 //{ npm install @material-ui/core} for UI
+//{npm install jwt-decode react-goole-login}
